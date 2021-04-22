@@ -1,0 +1,5 @@
+Name: Shaojie Tang
+
+Model: Logistic Regression Model
+
+Result: I create three logistic model, first model only contains continuous variables, second model only contains categorical variables, the last model contains both continuous and categorical variables. I find the model with only categorical variables has the highest accuracy score. So this model is the best. And I find sex, siblings/spouses aboard and fare are three main factors that affect the survived rate.
